@@ -77,10 +77,6 @@ SELECT * FROM checkout;
 # MySOL資料庫
 專案檔放置位置
 ![image](https://user-images.githubusercontent.com/72490355/160274441-3fa94263-f0a2-4841-a501-c20fe46350c2.png)  
-![image](https://user-images.githubusercontent.com/72490355/160274471-e8f81859-a35e-446e-8e70-700fd195aa82.png)
-![image](https://user-images.githubusercontent.com/72490355/160274486-f48f0ec1-adcb-4d59-a689-b821a7d1fbf7.png)
-![image](https://user-images.githubusercontent.com/72490355/160274501-6a81d5be-de38-4865-a786-9ea3fe55aae1.png)
-![image](https://user-images.githubusercontent.com/72490355/160274518-b72563a1-dba3-4582-9a9d-18dfea581f9c.png)
 
 
 
