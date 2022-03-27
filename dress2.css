@@ -1,0 +1,173 @@
+div#left{
+	float: left;
+	width:100px;
+	height: 600px;
+}
+
+div#list{
+	background-color: #FFE4E1;
+}
+
+div#top{
+	height: 80px;
+	text-align: center;
+}
+
+div#right{
+	float:right;
+	width:800px;
+	margin: 10px 50px;
+	text-align: center;
+
+}
+
+div#r1{
+	float:left;
+	width:200px
+}
+
+div#r1-2{
+	float:right;
+	width:600px
+}
+
+div#r2{
+	float:left;
+	width:600px
+}
+
+div#r2-2{
+	float:right;
+	width:200px
+}
+
+div#show{
+	width: 700px;
+	height: 100px;
+	background-color:#DCDCDC;
+}
+
+
+
+ul{
+	list-style: none;
+	padding-left: 15px;
+}
+
+body{
+	font-family:Microsoft JhengHei;  
+
+}
+
+#enter{
+  background-color:#DCDCDC; 
+}
+
+a:hover{
+	color: #5f9ea0;
+}
+
+a{
+	text-decoration: none;
+	color:#000000;
+}
+
+
+
+#aa{
+	font-size: 6px;
+}
+
+
+.point{
+	color: #BFAFAF;
+
+}
+
+#enter{
+	background-color:#DCDCDC; 
+}
+
+#m_table{
+	border: 5px solid #BC8F8F;
+}
+
+div#login{
+  text-align: center;
+  background-color: #FFE4E1;
+  width:600px;
+  height:300px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:50px;
+}
+
+div#register{
+  text-align: center;
+  background-color: #FFE4E1;
+  width:600px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:50px;
+}
+
+#tab_table{
+  margin-left:auto;
+  margin-right:auto;
+  padding-top: 50px;
+}
+
+
+ 
+td{
+	font-size: 14px;
+}
+
+th{
+	font-size: 18px;
+	color: #BC8F8F;
+}
+
+li{
+	display: inline-block;
+
+}
+
+input[type="button"]{
+  background-color:#FFE4E1;
+  font-family:Microsoft JhengHei;  
+}
+
+
+
+
+
+
+#wrapper{
+	background-color: #ffa07a;
+	width:700px;
+}
+
+
+#title{
+	height: 100px;
+	padding: 10px;
+	background-color: #ffa07a;
+	text-align: center;
+	color: #fffff0;
+}
+
+#cart_table{
+	background-color:#ffefd5;
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#payment{
+	text-align: center;
+	
+}
+
+

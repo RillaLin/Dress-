@@ -1,0 +1,231 @@
+div#left{
+	float: left;
+	width:100px;
+	height: 600px;
+}
+
+div#list{
+	background-color: #FFE4E1;
+}
+
+div#top{
+	height: 80px;
+	text-align: center;
+}
+
+div#right{
+	float:right;
+	width:900px;
+	margin: 10px 180px;
+	text-align: center;
+
+}
+
+div#right-shop{
+	float:right;
+	width:1100px;
+	margin: 10px 100px;
+	text-align: center;
+
+}
+
+div#r1{
+	float:left;
+	width:200px
+}
+
+div#r1-2{
+	float:right;
+	width:600px
+}
+
+div#r1-2-member{
+	float:right;
+	width:900px
+}
+
+div#r2{
+	float:left;
+	width:800px
+}
+
+div#r2-2{
+	float:right;
+	width:100px
+	margin: 10px 50px;
+}
+
+div#r2-2-shop{
+	float:right;
+	width:400px
+	margin: 10px 50px;
+}
+
+
+
+
+div#show{
+	/*float:right;
+	
+    text-align: center;*/
+    /*margin: 0;
+    background:#FFCCCC;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)*/
+    /*background-color: #FFCCCC;*/
+    margin-left: auto;
+    margin-right: auto;
+    width:800px;
+
+}
+
+ul{
+	list-style: none;
+	padding-left: 15px;
+}
+
+body{
+	font-family:Microsoft JhengHei;  
+}
+
+#enter{
+  background-color:#DCDCDC; 
+}
+
+a:hover{
+	color:#fffaf0;
+}
+
+a{
+	text-decoration: none;
+	color:#000000;
+}
+
+.more:hover{
+	color:#fa8072;
+}
+.purple:hover{
+	color:#9370db;
+}
+.blue:hover{
+	color:#add8e6;
+}
+
+
+
+
+
+.point{
+	color: #BFAFAF;
+
+}
+
+
+
+#m_table{
+	border: 5px solid #BC8F8F;
+}
+
+
+
+div#login{
+  text-align: center;
+  background-color: #FFE4E1;
+  width:600px;
+  height:300px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:50px;
+}
+
+div#register{
+  text-align: center;
+  background-color: #FFE4E1;
+  width:600px;
+  height:400px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:50px;
+}
+
+#tab_table{
+  margin-left:auto;
+  margin-right:auto;
+  padding-top: 50px;
+}
+
+#store_table{
+  margin-left:auto;
+  margin-right:auto;
+  padding-top: 50px;
+}
+
+ 
+td{
+	font-size: 10px;
+}
+
+th{
+	color: #BC8F8F;
+}
+
+li{
+	display: inline-block;
+
+}
+
+input[type="button"]{
+  background-color:#FFE4E1;
+  font-family:Microsoft JhengHei;  
+}
+
+#wrapper{
+	background-color: #ffa07a;
+	width:900px;
+}
+
+
+#title{
+	height: 100px;
+	padding: 10px;
+	background-color: #ffa07a;
+	text-align: center;
+	color: #fffff0;
+}
+
+#title2{
+	height: 100px;
+	padding: 10px;
+	text-align: center;
+	color: #000000;
+}
+
+#cart_table{
+	background-color:#ffefd5;
+	width:600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#payment{
+	text-align: center;
+	
+}
+
+#new{
+	font-size:12px;
+
+}
+body{
+	background-color:#fffaf0; 
+}
+
+#sa{
+	margin-left: auto;
+    margin-right: auto;
+    float: right;
+    width:800px;
+}
