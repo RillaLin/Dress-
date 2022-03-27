@@ -2,9 +2,9 @@
 使用php連接MySQL模擬出一個服飾網拍店家整合平台。\
 是我在五專時小組分工的小專作品，我主要負責登入、搜尋排序、購物車等前端排版和連結MySQL資料庫的部分。
 
-# 語法筆記
+# SQL語法筆記
 [系統後台]\
-會員帳號管理\
+會員帳號管理  
 SELECT * FROM members WHERE mid = “”;\
 店家帳號管理\
 SELECT * FROM stores WHERE sid = “” ;\
