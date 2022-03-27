@@ -1,6 +1,7 @@
 # Dress-
 使用php連接MySQL模擬出一個服飾網拍店家整合平台。  
-是我在五專(台中科技大學-資訊應用)時小組分工的小專作品，我主要負責登入、搜尋排序、購物車等前端排版和連結MySQL資料庫的部分。  
+
+這個網頁是我在五專(台中科技大學-資訊應用)時小組分工的小專作品，我主要負責登入、搜尋排序、購物車等前端排版和連結MySQL資料庫的部分。  
 因為是幾年前的作品，有部分檔案丟失，所以某些部分有點出錯，排版也不是很完美，我之後再改善調整。
 
 # 影片Demo
@@ -11,7 +12,12 @@ Dress 功能列
 https://www.youtube.com/watch?v=VHGS0Pe5AB0&ab_channel=RillaLin  
   
 Dress 後台管理  
-https://youtu.be/V0IK8OOnn2g    
+https://youtu.be/V0IK8OOnn2g   
+
+# PHP介紹
+PHP語言是伺服器端(Server)執行的網頁，不像一般HTML網頁，只要單機下開啟檔案就可以檢視網頁，PHP必須先在伺服器端執行完後，再將結果傳至使用者端(Client)的瀏覽器中檢視結果，所以必須使用網站伺服器，且伺服器要支援PHP。  
+  
+ PHP語言的全名是(PHP: Hypertext Preprocessor)，和ASP、JSP等都是動態網頁開發語言，不過，PHP擁有跨平台的能力，無論是在Linux(最適合)、Unix、 Windows都可以執行運作，不像微軟 的ASP只能在Windows平台上執行，而且PHP是免費的，並可結合多種資料庫伺服器，如:MySQL、PostgreSQL、dBase、mSQL、Informix、ODBC、Oracle等。    
 
 # SQL語法筆記
 [系統後台]  
