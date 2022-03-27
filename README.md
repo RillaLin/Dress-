@@ -5,7 +5,13 @@
 
 #影片Demo
 Dress 瀏覽+購物車功能  
-https://www.youtube.com/watch?v=GySPPtL0OpA&ab_channel=RillaLin
+https://www.youtube.com/watch?v=GySPPtL0OpA&ab_channel=RillaLin  
+  
+Dress 功能列
+https://www.youtube.com/watch?v=VHGS0Pe5AB0&ab_channel=RillaLin  
+  
+Dress 後台管理  
+https://youtu.be/V0IK8OOnn2g    
 
 # SQL語法筆記
 [系統後台]  
