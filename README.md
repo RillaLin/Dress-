@@ -3,7 +3,7 @@
 是我在五專(台中科技大學-資訊應用)時小組分工的小專作品，我主要負責登入、搜尋排序、購物車等前端排版和連結MySQL資料庫的部分。  
 因為是幾年前的作品，有部分檔案丟失，所以某些部分有點出錯，排版也不是很完美，我之後再改善調整。
 
-#影片Demo
+# 影片Demo
 Dress 瀏覽+購物車功能  
 https://www.youtube.com/watch?v=GySPPtL0OpA&ab_channel=RillaLin  
   
