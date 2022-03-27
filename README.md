@@ -2,6 +2,10 @@
 使用php連接MySQL模擬出一個服飾網拍店家整合平台。  
 是我在五專時小組分工的小專作品，我主要負責登入、搜尋排序、購物車等前端排版和連結MySQL資料庫的部分。
 
+#影片Demo
+Dress 瀏覽+購物車功能  
+https://www.youtube.com/watch?v=GySPPtL0OpA&ab_channel=RillaLin
+
 # SQL語法筆記
 [系統後台]  
 會員帳號管理  
@@ -62,3 +66,4 @@ SELECT pimg,pname,pstyle,psize,oamount,total FROM sales;
 
 結帳  
 SELECT * FROM checkout;    
+
